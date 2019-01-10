@@ -1,5 +1,6 @@
 # Game Physics Mr DNA
 Game Physics Mr DINO DNA from Jurassic Park
+![](https://github.com/AmieDD/Game-Physics-Mr-DNA/blob/master/Images/mrdna.png)
 
 Project Page https://amiedd.github.io/Game-Physics-Mr-DNA/
 
